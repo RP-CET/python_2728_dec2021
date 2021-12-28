@@ -16,6 +16,9 @@ https://files.pythonhosted.org/packages/69/bf/f0f194d3379d3f3347478bd267f754fc68
 
 #### fpdf
 
+#### matplotlib (matplotlib-3.5.1-cp38-cp38-win32.whl)
+https://files.pythonhosted.org/packages/55/2e/515c7dc51fc4d0fa2da899d227164672563b1ed4f470c17ef5dccc827e71/matplotlib-3.5.1-cp38-cp38-win32.whl 
+
 Course materials are contained in this repository
 
 ## Other Learning Resources:
