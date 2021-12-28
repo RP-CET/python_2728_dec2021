@@ -1,8 +1,8 @@
 # Introductory Programming Using Python (27 and 28 Dec 2021)
 
-## Link to download whl files:
+## Links to download whl files:
 
-openpyxl 
+### openpyxl 
 https://files.pythonhosted.org/packages/1c/a6/8ce4d2ef2c29be3235c08bb00e0b81e29d38ebc47d82b17af681bf662b74/openpyxl-3.0.9-py2.py3-none-any.whl
 
 pillow (Pillow-8.4.0-cp38-cp38-win32.whl)
