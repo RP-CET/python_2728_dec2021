@@ -15,6 +15,7 @@ https://files.pythonhosted.org/packages/92/96/144f70b972a9c0eabbd4391ef93ccd49d0
 https://files.pythonhosted.org/packages/69/bf/f0f194d3379d3f3347478bd267f754fc68c11cbf2fe302a6ab69447b1417/beautifulsoup4-4.10.0-py3-none-any.whl 
 
 #### fpdf
+https://files.pythonhosted.org/packages/cf/cd/a400dd51b1a6b933f82042a0605d8b18a18f5d85939450d6506794938ae9/fpdf2-2.4.6-py2.py3-none-any.whl
 
 #### matplotlib (matplotlib-3.5.1-cp38-cp38-win32.whl)
 https://files.pythonhosted.org/packages/55/2e/515c7dc51fc4d0fa2da899d227164672563b1ed4f470c17ef5dccc827e71/matplotlib-3.5.1-cp38-cp38-win32.whl 
